@@ -1,4 +1,4 @@
-# Blink Bill of Materials
+# Hue Bill of Materials
 
 | Part | Quantity |
 |----------|:-------------:|
